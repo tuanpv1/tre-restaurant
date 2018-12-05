@@ -1,0 +1,4 @@
+.postbox .bootstrap .option.row{width: 100%; margin: 10px 0px; display: inline-block; padding: 0;}
+.postbox .bootstrap .option .option_label{width: 20%; padding-right: 20px; font-weight: bold; float: left; box-sizing: border-box;}
+.postbox .bootstrap .option .option_field{width: 80%; float: left;}
+.redux-container-radio ul.data-full li,.redux-container-checkbox ul.data-full li{display: inline-block; padding-right: 20px; width: auto !important;}
