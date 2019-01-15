@@ -1,4 +1,0 @@
-2018-11-30T14:13:33+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in D:\program\xampp\htdocs\tre\wp-includes\wp-db.php on line 1930
-
-2018-11-30T14:13:34+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in D:\program\xampp\htdocs\tre\wp-content\plugins\lionthemes-helper\wbc_importer\inc\importer\wordpress-importer.php on line 1238
-

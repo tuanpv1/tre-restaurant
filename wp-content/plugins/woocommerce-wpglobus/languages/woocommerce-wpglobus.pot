@@ -1,0 +1,168 @@
+# Copyright (C) 2018 WooCommerce WPGlobus 3.5.0
+# This file is distributed under the same license as the WooCommerce WPGlobus 3.5.0 package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce WPGlobus 3.5.0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: The WPGlobus Team <support@wpglobus.com>\n"
+"Report-Msgid-Bugs-To: support@wpglobus.com\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: includes/admin/class-wpglobus-wc-admin-help.php:50, includes/class-wpglobus-wc.php:707, includes/class-wpglobus-wc.php:710
+msgid "Translate"
+msgstr ""
+
+#: includes/admin/class-wpglobus-wc-translations.php:175
+msgid "About WPGlobus WC Translations"
+msgstr ""
+
+#: includes/admin/class-wpglobus-wc-translations.php:176
+msgid "Your need to enable two or more languages to use this tool."
+msgstr ""
+
+#: includes/admin/class-wpglobus-wc-translations.php:279
+msgid "Search"
+msgstr ""
+
+#: includes/admin/class-wpglobus-wc-translations.php:300
+msgid "Edit Description:"
+msgstr ""
+
+#: includes/admin/class-wpglobus-wc-translations.php:304
+msgid "Default Language"
+msgstr ""
+
+#: includes/admin/class-wpglobus-wc-translations.php:309
+msgid "Translation"
+msgstr ""
+
+#: includes/admin/class-wpglobus-wc-translations.php:343, includes/class-wpglobus-wc.php:175
+msgid "Taxonomy"
+msgstr ""
+
+#: includes/admin/class-wpglobus-wc-translations.php:348, includes/class-wpglobus-wc.php:176
+msgid "Term Slug"
+msgstr ""
+
+#: includes/admin/class-wpglobus-wc-translations.php:353, includes/class-wpglobus-wc.php:177
+msgid "Term ID"
+msgstr ""
+
+#: includes/admin/class-wpglobus-wc-translations.php:358, includes/class-wpglobus-wc.php:178
+msgid "Source"
+msgstr ""
+
+#: includes/admin/class-wpglobus-wc-translations.php:705
+msgid "No items found."
+msgstr ""
+
+#: includes/admin/class-wpglobus-wc-translations.php:921
+msgid "Click to add description"
+msgstr ""
+
+#: includes/admin/class-wpglobus-wc-translations.php:1264
+msgid "Filter by taxonomy"
+msgstr ""
+
+#: includes/admin/class-wpglobus-wc-translations.php:1265, includes/admin/class-wpglobus-wc-translations.php:1266
+msgid "Select taxonomies..."
+msgstr ""
+
+#: includes/admin/class-wpglobus-wc-translations.php:1268
+msgid "All"
+msgstr ""
+
+#: includes/admin/class-wpglobus-wc-translations.php:1271
+msgid "All Product categories"
+msgstr ""
+
+#: includes/admin/class-wpglobus-wc-translations.php:1276
+msgid "Product category"
+msgstr ""
+
+#: includes/admin/class-wpglobus-wc-translations.php:1283
+msgid "Product attribute"
+msgstr ""
+
+#: includes/admin/class-wpglobus-wc-translations.php:1291
+msgid "Filter"
+msgstr ""
+
+#: includes/admin/class-wpglobus-wc-translations.php:1298
+msgid "Export to Excel"
+msgstr ""
+
+#: includes/class-wpglobus-wc.php:257
+msgid "Error updating `product_cat`"
+msgstr ""
+
+#: includes/class-wpglobus-wc.php:291, includes/class-wpglobus-wc.php:330
+msgid "Attribute term update error"
+msgstr ""
+
+#: includes/class-wpglobus-wc.php:339
+msgid "Internal Error:"
+msgstr ""
+
+#: includes/class-wpglobus-wc.php:353
+msgid "Undefined taxonomy"
+msgstr ""
+
+#: includes/class-wpglobus-wc.php:754
+msgid "Records per page"
+msgstr ""
+
+#: includes/class-wpglobus-wc.php:769
+msgid "Translate WooCommerce Taxonomies"
+msgstr ""
+
+#: includes/class-wpglobus-wc.php:815
+msgid "Product Short Description"
+msgstr ""
+
+#: templates/help-tab-translate.php:13
+msgid "WooCommerce Taxonomy Translations by WPGlobus"
+msgstr ""
+
+#: templates/help-tab-translate.php:17
+msgid "Choose a taxonomy using \"Filter by taxonomy...\""
+msgstr ""
+
+#: templates/help-tab-translate.php:20
+msgid "Click the language button"
+msgstr ""
+
+#: templates/help-tab-translate.php:23
+msgid "Type in the input boxes. The text you enter will be saved automatically when you go to the next input box"
+msgstr ""
+
+#: templates/help-tab-translate.php:26
+msgid "Click the icons below the input boxes to translate the taxonomy description."
+msgstr ""
+
+#: woocommerce-wpglobus.php:11
+msgid "WooCommerce WPGlobus"
+msgstr ""
+
+#: woocommerce-wpglobus.php:13
+msgid "https://wpglobus.com/product/woocommerce-wpglobus/"
+msgstr ""
+
+#: woocommerce-wpglobus.php:14
+msgid "Make WooCommerce multilingual using <a href=\"https://wordpress.org/plugins/wpglobus/\">WPGlobus</a>."
+msgstr ""
+
+#: woocommerce-wpglobus.php:17
+msgid "WPGlobus"
+msgstr ""
+
+#: woocommerce-wpglobus.php:18
+msgid "https://wpglobus.com/"
+msgstr ""
+
+#. translators: %1$s - name of this plugin; %2$s - WPGlobus.
+#: woocommerce-wpglobus.php:203
+msgid "The %1$s will not function unless the core plugin, %2$s, is activated."
+msgstr ""

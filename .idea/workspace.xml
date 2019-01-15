@@ -2,472 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6d3169a-dd4a-4110-b624-4fddc65a7304" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/css/admin-builder-conditional-logic-core.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/css/admin-builder-fields.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/css/admin-builder-providers.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/css/admin-builder-setup.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/css/admin-builder.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/css/admin.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/css/admin.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/css/builder.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/css/builder.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/css/flatpickr.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/css/font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/css/jquery-confirm.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/css/jquery.minicolors.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/css/jquery.timepicker.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/css/tooltipster.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/css/wpforms-base.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/css/wpforms-full.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/css/wpforms-preview.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/fonts/fontawesome-webfont.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/images/builder-default-arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/images/cc-about-logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/images/cc-about-step1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/images/cc-about-step2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/images/cc-about-step3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/images/cc-about-step4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/images/cross-inverse.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/images/cross.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/images/flags.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/images/icon-provider-constant-contact.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/images/jquery.minicolors.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/images/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/images/placeholder-200x125.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/images/recaptcha-placeholder.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/images/settings-captcha-addon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/images/settings-email-html.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/images/settings-email-plaintext.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/images/sullie-alt.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/images/sullie-vc.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/images/sullie.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/images/welcome-feature-icon-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/images/welcome-feature-icon-10.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/images/welcome-feature-icon-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/images/welcome-feature-icon-3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/images/welcome-feature-icon-4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/images/welcome-feature-icon-5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/images/welcome-feature-icon-6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/images/welcome-feature-icon-7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/images/welcome-feature-icon-8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/images/welcome-feature-icon-9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/images/welcome-testimonial-bill.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/images/welcome-testimonial-david.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/images/welcome-video.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/js/admin-builder-conditional-logic-core.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/js/admin-builder-providers.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/js/admin-builder.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/js/admin-editor.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/js/admin-utils.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/js/admin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/js/admin.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/js/choices.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/js/components/admin/builder/providers.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/js/components/admin/builder/providers.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/js/components/admin/builder/templates.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/js/components/admin/builder/templates.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/js/components/admin/gutenberg/formselector.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/js/components/admin/gutenberg/formselector.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/js/flatpickr.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/js/jquery.conditionals.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/js/jquery.inputmask.bundle.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/js/jquery.insert-at-caret.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/js/jquery.jquery-confirm.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/js/jquery.matchHeight-min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/js/jquery.minicolors.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/js/jquery.payment.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/js/jquery.serialize-object.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/js/jquery.timepicker.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/js/jquery.tooltipster.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/js/jquery.validate.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/js/list.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/js/wpforms-confirmation.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/assets/js/wpforms.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/autoloader.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/changelog.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/admin/admin.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/admin/ajax-actions.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/admin/builder/class-builder.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/admin/builder/functions.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/admin/builder/panels/class-analytics.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/admin/builder/panels/class-base.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/admin/builder/panels/class-fields.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/admin/builder/panels/class-payments.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/admin/builder/panels/class-providers.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/admin/builder/panels/class-settings.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/admin/builder/panels/class-setup.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/admin/class-am-dashboard-widget-extend-feed.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/admin/class-am-deactivation-survey.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/admin/class-am-notification.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/admin/class-editor.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/admin/class-importers.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/admin/class-menu.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/admin/class-notices.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/admin/class-review.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/admin/class-settings.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/admin/class-tools.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/admin/class-welcome.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/admin/importers/class-base.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/admin/importers/class-contact-form-7.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/admin/importers/class-install-silent-skin.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/admin/importers/class-ninja-forms.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/admin/importers/class-pirate-forms.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/admin/importers/interface.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/admin/overview/class-overview-table.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/admin/overview/class-overview.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/admin/settings-api.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/analytics/class-base.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/analytics/class-monster-insights.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/class-conditional-logic-core.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/class-fields.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/class-form.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/class-frontend.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/class-install.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/class-logging.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/class-preview.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/class-process.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/class-providers.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/class-smart-tags.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/class-templates.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/class-widget.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/emails/class-emails.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/emails/templates/body-default.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/emails/templates/default.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/emails/templates/field-default.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/emails/templates/footer-default.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/emails/templates/header-default.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/fields/class-base.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/fields/class-checkbox.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/fields/class-email.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/fields/class-gdpr-checkbox.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/fields/class-name.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/fields/class-number.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/fields/class-radio.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/fields/class-select.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/fields/class-text.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/fields/class-textarea.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/functions.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/integrations.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/providers/class-base.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/providers/class-constant-contact.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/templates/class-base.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/templates/class-blank.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/templates/class-contact.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/templates/class-subscribe.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/includes/templates/class-suggestion.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/languages/wpforms-de_DE.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/languages/wpforms-de_DE.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/languages/wpforms-fr_FR.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/languages/wpforms-fr_FR.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/languages/wpforms-ru_RU.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/languages/wpforms-ru_RU.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/languages/wpforms.pot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/lite/assets/images/addon-icon-aweber.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/lite/assets/images/addon-icon-campaign-monitor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/lite/assets/images/addon-icon-captcha.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/lite/assets/images/addon-icon-conditional-logic.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/lite/assets/images/addon-icon-constant-contact.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/lite/assets/images/addon-icon-drip.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/lite/assets/images/addon-icon-form-abandonment.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/lite/assets/images/addon-icon-form-templates-pack.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/lite/assets/images/addon-icon-geolocation.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/lite/assets/images/addon-icon-getresponse.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/lite/assets/images/addon-icon-mailchimp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/lite/assets/images/addon-icon-offline-forms.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/lite/assets/images/addon-icon-paypal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/lite/assets/images/addon-icon-post-submissions.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/lite/assets/images/addon-icon-signatures.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/lite/assets/images/addon-icon-stripe.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/lite/assets/images/addon-icon-user-registration.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/lite/assets/images/addon-icon-zapier.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/lite/assets/images/addon-icons-surveys-polls.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/lite/assets/js/admin-builder-lite.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/lite/wpforms-lite.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/src/Integrations/Gutenberg/FormSelector.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/src/Integrations/IntegrationInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/src/Integrations/Loader.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/src/Integrations/WPMailSMTP/Notifications.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/src/Providers/Loader.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/src/Providers/Provider/Core.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/src/Providers/Provider/Process.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/src/Providers/Provider/Settings/FormBuilder.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/src/Providers/Provider/Settings/FormBuilderInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/src/Providers/Provider/Settings/PageIntegrations.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/src/Providers/Provider/Settings/PageIntegrationsInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/src/Providers/Provider/Status.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/uninstall.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wpforms-lite/wpforms.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/404.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/archive.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/assets/bootstrap/config.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/assets/bootstrap/css/bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/assets/bootstrap/css/bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/assets/bootstrap/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/assets/bootstrap/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/assets/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/assets/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/assets/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/assets/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/assets/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/assets/bootstrap/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/assets/bootstrap/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/assets/css/admin-style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/assets/css/customizer-preview.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/assets/css/slider.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/assets/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/assets/css/vendor/animate.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/assets/css/vendor/animate.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/assets/css/vendor/flexslider.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/assets/css/vendor/flexslider.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/assets/css/vendor/magnific-popup.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/assets/css/vendor/magnific-popup.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/assets/css/vendor/owl.carousel.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/assets/css/vendor/owl.carousel.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/assets/fonts/ElegantIcons.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/assets/fonts/ElegantIcons.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/assets/fonts/ElegantIcons.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/assets/fonts/ElegantIcons.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/assets/fonts/flexslider-icon.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/assets/fonts/flexslider-icon.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/assets/fonts/flexslider-icon.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/assets/fonts/flexslider-icon.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/assets/images/404.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/assets/images/background-video.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/assets/images/banner1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/assets/images/banner2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/assets/images/banner3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/assets/images/header.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/assets/images/next-dark.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/assets/images/next-light.cur" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/assets/images/next-light.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/assets/images/prev-dark.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/assets/images/prev-light.cur" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/assets/images/prev-light.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/assets/images/ribbon-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/assets/images/slide1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/assets/images/slide2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/assets/images/slide3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/assets/images/team1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/assets/images/team2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/assets/images/team3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/assets/images/team4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/assets/js/custom.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/assets/js/vendor/jqBootstrapValidation.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/assets/js/vendor/jqBootstrapValidation.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/assets/js/vendor/jquery.fitvids.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/assets/js/vendor/jquery.fitvids.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/assets/js/vendor/jquery.flexslider-min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/assets/js/vendor/jquery.flexslider.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/assets/js/vendor/jquery.magnific-popup.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/assets/js/vendor/jquery.magnific-popup.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/assets/js/vendor/jquery.mb.YTPlayer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/assets/js/vendor/jquery.mb.YTPlayer.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/assets/js/vendor/owl.carousel.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/assets/js/vendor/owl.carousel.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/assets/js/vendor/smoothscroll.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/assets/js/vendor/smoothscroll.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/class-tgm-plugin-activation.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/comments.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/composer.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/content-contact.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/content-none.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/content-page.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/content-pagebuilder.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/content-single.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/content.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/footer.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/front-page.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/functions.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/header.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/home.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/customizer/class/class-shop-isle-display-text.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/customizer/class/class-shop-isle-pro-palette.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/customizer/class/class-shopisle-contact-page-instructions.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/customizer/class/class-shopisle-info.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/customizer/customize-pro/class-shopisle-customizer-upsell-main.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/customizer/customize-pro/class-shopisle-customizer-upsell-section.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/customizer/customize-pro/class-shopisle-customizer-upsell-text.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/customizer/customize-pro/class-shopisle-customizer-upsell.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/customizer/customize-pro/shopisle-upsell-customize-controls.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/customizer/customize-pro/shopisle-upsell-customize-controls.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/customizer/customizer-radio-image/class/class-shop-isle-customize-control-radio-image.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/customizer/customizer-radio-image/img/very-top-bar-layout-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/customizer/customizer-radio-image/img/very-top-bar-layout-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/customizer/customizer-repeater/class/customizer-repeater-control.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/customizer/customizer-repeater/css/admin-style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/customizer/customizer-repeater/css/eleganticons.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/customizer/customizer-repeater/css/iconpicker.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/customizer/customizer-repeater/functions.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/customizer/customizer-repeater/icon-picker/icons.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/customizer/customizer-repeater/icon-picker/script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/customizer/customizer-repeater/icon-picker/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/customizer/customizer-repeater/inc/customizer.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/customizer/customizer-repeater/js/customizer_repeater.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/customizer/customizer-scroll/class/class-shopisle-customize-control-scroll.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/customizer/customizer-scroll/js/customizer-addon-script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/customizer/customizer-scroll/js/script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/customizer/customizer-upsell/class-shopisle-control-upsell.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/customizer/customizer-upsell/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/customizer/customizer.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/customizer/features/customizer-theme-info.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/customizer/features/feature-404-controls.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/customizer/features/feature-advanced-controls.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/customizer/features/feature-blog-header-controls.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/customizer/features/feature-contact-controls.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/customizer/features/feature-footer-controls.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/customizer/features/feature-frontpage-banners-section-controls.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/customizer/features/feature-frontpage-big-title-section-controls.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/customizer/features/feature-frontpage-products-section-controls.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/customizer/features/feature-frontpage-products-slider-section-controls.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/customizer/features/feature-frontpage-video-section-controls.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/customizer/features/feature-header-controls.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/customizer/features/feature-slider-shortcode.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/customizer/functions.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/customizer/legacy.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/dokan/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/dokan/functions.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/flag-wporg.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/frontpage-manager.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/functions/extras.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/functions/setup.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/init.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/jetpack/jetpack.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/page-builder-extras.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/sections/shop_isle_banners_section.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/sections/shop_isle_big_title_section.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/sections/shop_isle_products_section.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/sections/shop_isle_products_slider_section.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/sections/shop_isle_slider_section.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/sections/shop_isle_video_section.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/structure/comments.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/structure/footer.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/structure/header.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/structure/hooks.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/structure/page.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/structure/post.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/structure/template-tags.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/woocommerce/css/ajax-layered-nav.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/woocommerce/css/ajax-layered-nav.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/woocommerce/css/bookings.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/woocommerce/css/bookings.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/woocommerce/css/brands.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/woocommerce/css/brands.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/woocommerce/css/composite-products.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/woocommerce/css/composite-products.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/woocommerce/css/photography.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/woocommerce/css/photography.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/woocommerce/css/product-reviews-pro.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/woocommerce/css/product-reviews-pro.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/woocommerce/css/smart-coupons.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/woocommerce/css/smart-coupons.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/woocommerce/css/variation-swatches.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/woocommerce/css/variation-swatches.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/woocommerce/css/wishlists.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/woocommerce/css/wishlists.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/woocommerce/css/woocommerce.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/woocommerce/css/woocommerce.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/woocommerce/functions.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/woocommerce/hooks.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/woocommerce/integrations.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/woocommerce/template-tags.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/js/customizer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/js/navigation.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/js/navigation.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/js/shop_isle_customizer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/js/skip-link-focus-fix.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/js/skip-link-focus-fix.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/js/woo-scripts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/key.enc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/languages/fr_FR.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/languages/fr_FR.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/languages/shop-isle.pot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/loop.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/package-lock.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/page.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/rtl.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/screenshot.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/search.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/sidebar-shop-archive.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/sidebar.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/single.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/template-contact.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/template-fullwidth-no-title.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/template-fullwidth.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/template-pagebuilder-blank.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/template-pagebuilder-full-width.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/shop-isle/themeisle-hash.json" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/11/brooke-lark-229136-unsplash-1-600x408.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/11/brooke-lark-229136-unsplash-1-600x408.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/11/brooke-lark-500141-unsplash-1-600x400.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/11/brooke-lark-500141-unsplash-1-600x400.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/11/dan-gold-105699-unsplash-1-600x450.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/11/dan-gold-105699-unsplash-1-600x450.jpg" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/wc-logs/fatal-errors-2018-11-30-5eefcadd3443aca2d9ac45b89ccdee97.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/wc-logs/wc-image-regeneration-2018-11-30-22bbbe73eb6f940bf0912dbc7d8b3ac1.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/wc-logs/wc_db_updates-2018-12-03-ff982cac7565fa69f3db199455c190ed.log" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/11/26084324316_f244428e85_z-300x369.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/11/26084324316_f244428e85_z-300x369.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/2018/11/6-300x333.jpg" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/11/6-300x333.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/GeoLite2-Country.mmdb" afterPath="$PROJECT_DIR$/wp-content/uploads/GeoLite2-Country.mmdb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/akismet.php" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/akismet.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-admin.php" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-admin.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-cli.php" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-cli.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-rest-api.php" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-rest-api.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet.php" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/readme.txt" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/readme.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.js" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/i18n/languages/woocommerce.pot" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/i18n/languages/woocommerce.pot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-data.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-data.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-rest-terms-controller.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-rest-terms-controller.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/admin/class-wc-admin-attributes.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/admin/class-wc-admin-attributes.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/admin/class-wc-admin-notices.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/admin/class-wc-admin-notices.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/admin/class-wc-admin-setup-wizard.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/admin/class-wc-admin-setup-wizard.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/admin/importers/class-wc-tax-rate-importer.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/admin/importers/class-wc-tax-rate-importer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/admin/list-tables/class-wc-admin-list-table-products.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/admin/list-tables/class-wc-admin-list-table-products.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/admin/meta-boxes/views/html-order-item.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/admin/meta-boxes/views/html-order-item.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/admin/meta-boxes/views/html-product-data-panel.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/admin/meta-boxes/views/html-product-data-panel.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/admin/reports/class-wc-admin-report.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/admin/reports/class-wc-admin-report.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/admin/settings/class-wc-settings-accounts.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/admin/settings/class-wc-settings-accounts.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/admin/views/html-notice-wootenberg.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/admin/views/html-notice-wootenberg.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/api/class-wc-rest-authentication.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/api/class-wc-rest-authentication.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/api/legacy/v2/class-wc-api-orders.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/api/legacy/v2/class-wc-api-orders.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/api/legacy/v3/class-wc-api-orders.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/api/legacy/v3/class-wc-api-orders.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/api/v1/class-wc-rest-orders-controller.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/api/v1/class-wc-rest-orders-controller.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/api/v2/class-wc-rest-orders-v2-controller.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/api/v2/class-wc-rest-orders-v2-controller.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/api/v2/class-wc-rest-system-status-tools-v2-controller.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/api/v2/class-wc-rest-system-status-tools-v2-controller.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/api/v2/class-wc-rest-system-status-v2-controller.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/api/v2/class-wc-rest-system-status-v2-controller.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-ajax.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-ajax.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-cart-session.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-cart-session.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-cart.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-cart.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-countries.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-countries.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-install.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-install.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-logger.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-logger.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-webhook.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-webhook.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-woocommerce.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-woocommerce.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/data-stores/class-wc-product-data-store-cpt.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/data-stores/class-wc-product-data-store-cpt.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/export/abstract-wc-csv-exporter.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/export/abstract-wc-csv-exporter.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/gateways/paypal/includes/class-wc-gateway-paypal-pdt-handler.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/gateways/paypal/includes/class-wc-gateway-paypal-pdt-handler.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/gateways/paypal/includes/settings-paypal.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/gateways/paypal/includes/settings-paypal.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/import/abstract-wc-product-importer.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/import/abstract-wc-product-importer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/libraries/class-emogrifier.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/libraries/class-emogrifier.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/log-handlers/class-wc-log-handler-db.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/log-handlers/class-wc-log-handler-db.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/wc-core-functions.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/wc-core-functions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/wc-stock-functions.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/wc-stock-functions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/wc-template-functions.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/wc-template-functions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/wc-template-hooks.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/wc-template-hooks.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/wc-update-functions.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/wc-update-functions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/readme.txt" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/readme.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/content-widget-product.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/content-widget-product.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/emails/customer-new-account.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/emails/customer-new-account.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/emails/plain/customer-invoice.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/emails/plain/customer-invoice.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/emails/plain/customer-new-account.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/emails/plain/customer-new-account.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/myaccount/form-lost-password.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/myaccount/form-lost-password.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/myaccount/lost-password-confirmation.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/myaccount/lost-password-confirmation.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/order/order-details.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/order/order-details.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/woocommerce.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/woocommerce.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-config.php" afterPath="$PROJECT_DIR$/wp-config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/outstock/category.php" afterPath="$PROJECT_DIR$/wp-content/themes/outstock/category.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/outstock/css/theme.css" afterPath="$PROJECT_DIR$/wp-content/themes/outstock/css/theme.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/outstock/functions.php" afterPath="$PROJECT_DIR$/wp-content/themes/outstock/functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/outstock/header.php" afterPath="$PROJECT_DIR$/wp-content/themes/outstock/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/outstock/index.php" afterPath="$PROJECT_DIR$/wp-content/themes/outstock/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/outstock/single.php" afterPath="$PROJECT_DIR$/wp-content/themes/outstock/single.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-includes/post.php" afterPath="$PROJECT_DIR$/wp-includes/post.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -478,7 +27,103 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="single.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/outstock/single.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1394">
+              <caret line="88" column="32" lean-forward="false" selection-start-line="88" selection-start-column="32" selection-end-line="88" selection-end-column="32" />
+              <folding>
+                <marker date="1545624836000" expanded="true" signature="3428:3443" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="category.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/outstock/category.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="135" column="23" lean-forward="false" selection-start-line="135" selection-start-column="23" selection-end-line="135" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wp-config.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="theme-helper.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/outstock/includes/theme-helper.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2312">
+              <caret line="136" column="21" lean-forward="false" selection-start-line="136" selection-start-column="21" selection-end-line="136" selection-end-column="21" />
+              <folding>
+                <marker date="1521088794000" expanded="true" signature="2552:2799" ph="SELECT c.com... $" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="category-template.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-includes/category-template.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2057">
+              <caret line="127" column="42" lean-forward="false" selection-start-line="127" selection-start-column="32" selection-end-line="127" selection-end-column="42" />
+              <folding>
+                <marker date="1513911038000" expanded="true" signature="6810:6819" ph=" Checks if the current post is within any of the given categories. ..." />
+                <marker date="1513911038000" expanded="true" signature="50033:50353" ph=" Checks if the current post has any of given tags. ..." />
+                <marker date="1513911038000" expanded="true" signature="50401:50447" ph="..." />
+                <marker date="1513911038000" expanded="true" signature="50453:51085" ph=" Check if the current post has any of given terms. ..." />
+                <marker date="1513911038000" expanded="true" signature="51151:51322" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="general-template.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tre/wp-includes/general-template.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1462">
+              <caret line="91" column="9" lean-forward="false" selection-start-line="91" selection-start-column="9" selection-end-line="91" selection-end-column="9" />
+              <folding>
+                <marker date="1531463846000" expanded="true" signature="28736:28749" ph="..." />
+                <marker date="1531463846000" expanded="true" signature="56350:56532" ph="SELECT YEAR(... " />
+                <marker date="1531463846000" expanded="true" signature="57424:57559" ph="SELECT YEAR(... " />
+                <marker date="1531463846000" expanded="true" signature="58324:58568" ph="SELECT YEAR(... " />
+                <marker date="1531463846000" expanded="true" signature="59539:59777" ph="SELECT DISTI... " />
+                <marker date="1531463846000" expanded="true" signature="61181:61239" ph="SELECT * FRO... ${$wpdb-&gt;posts}" />
+                <marker date="1531463846000" expanded="true" signature="63544:63639" ph="SELECT 1 as ${$wpdb-&gt;posts}" />
+                <marker date="1531463846000" expanded="true" signature="64877:65091" ph="SELECT MONTH... " />
+                <marker date="1531463846000" expanded="true" signature="65120:65351" ph="SELECT MONTH... " />
+                <marker date="1531463846000" expanded="true" signature="65527:65668" ph="..." />
+                <marker date="1531463846000" expanded="true" signature="65662:65668" ph="..." />
+                <marker date="1531463846000" expanded="true" signature="66113:66119" ph="..." />
+                <marker date="1531463846000" expanded="true" signature="66922:66928" ph="..." />
+                <marker date="1531463846000" expanded="true" signature="67021:67256" ph="SELECT DISTI... ${$wpdb-&gt;posts}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sidebar-blog.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/outstock/sidebar-blog.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -524,13 +169,13 @@
         <option value="$PROJECT_DIR$/wp-content/themes/tre/core/init.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/shop-isle/header.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/tre/header.php" />
-        <option value="$PROJECT_DIR$/wp-config.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/sections/shop_isle_slider_section.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/twentyseventeen/functions.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/sections/shop_isle_banners_section.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/shop-isle/inc/sections/shop_isle_products_slider_section.php" />
         <option value="$PROJECT_DIR$/wp-content/plugins/themeisle-companion/obfx_modules/companion-legacy/inc/shop-isle/template-about.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/outstock/css/theme.css" />
+        <option value="$PROJECT_DIR$/wp-config.php" />
       </list>
     </option>
   </component>
@@ -563,8 +208,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -707,18 +352,17 @@
       <workItem from="1543473754345" duration="78000" />
       <workItem from="1543638423359" duration="2189000" />
       <workItem from="1543936735815" duration="1237000" />
-      <workItem from="1543974899749" duration="1192000" />
+      <workItem from="1543974899749" duration="2697000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36638000" />
+    <option name="totallyTimeSpent" value="38930000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37140697" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2685325" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -729,12 +373,22 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32405892" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37140697" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -748,7 +402,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/catch-foodmania/template-parts/biography.php" />
     <entry file="file://$PROJECT_DIR$/wp-content/themes/catch-foodmania/inc/customizer/featured-slider.php" />
     <entry file="file://$PROJECT_DIR$/wp-content/themes/catch-foodmania/template-parts/biography.php" />
     <entry file="file://$PROJECT_DIR$/wp-content/themes/catch-foodmania/template-parts/slider/content-display.php" />
@@ -776,14 +429,6 @@
     <entry file="file://$PROJECT_DIR$/wp-content/themes/catch-foodmania/sidebar.php" />
     <entry file="file://$PROJECT_DIR$/wp-content/themes/tre/header.php" />
     <entry file="file://$PROJECT_DIR$/wp-content/themes/catch-foodmania/404.php" />
-    <entry file="file://$PROJECT_DIR$/wp-config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-562">
-          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-includes/general-template.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="178">
@@ -831,5 +476,21 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/shop-isle/inc/sections/shop_isle_products_slider_section.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/outstock/category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="135" column="23" lean-forward="false" selection-start-line="135" selection-start-column="23" selection-end-line="135" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
