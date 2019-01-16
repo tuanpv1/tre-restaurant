@@ -288,13 +288,13 @@ if( ! $templates ) {
 		<div id='bookacti-bookings-list' >
 		<?php
 			$filters = array(
-				'templates'					=> $selected_templates, 
-				'activities'				=> $selected_activities, 
-				'booking_id'				=> isset( $_REQUEST[ 'booking_id' ] )		? intval( $_REQUEST[ 'booking_id' ] ) : 0, 
-				'booking_group_id'			=> isset( $_REQUEST[ 'booking_group_id' ] )	? intval( $_REQUEST[ 'booking_group_id' ] ) : 0, 
-				'event_group_id'			=> $event_group_id, 
-				'event_id'					=> $event_id, 
-				'event_start'				=> $event_start, 
+				'templates'					=> $selected_templates,
+				'activities'				=> $selected_activities,
+				'booking_id'				=> isset( $_REQUEST[ 'booking_id' ] )		? intval( $_REQUEST[ 'booking_id' ] ) : 0,
+				'booking_group_id'			=> isset( $_REQUEST[ 'booking_group_id' ] )	? intval( $_REQUEST[ 'booking_group_id' ] ) : 0,
+				'event_group_id'			=> $event_group_id,
+				'event_id'					=> $event_id,
+				'event_start'				=> $event_start,
 				'event_end'					=> $event_end,
 				'status'					=> $selected_status,
 				'user_id'					=> $selected_user,
@@ -305,7 +305,7 @@ if( ! $templates ) {
 				'order'						=> isset( $_REQUEST[ 'order' ] )	? $_REQUEST[ 'order' ] : 'DESC',
 				'fetch_meta'				=> true
 			);
-			
+
 			$bookings_list_table = new Bookings_List_Table();
 			$bookings_list_table->prepare_items( $filters );
 			$bookings_list_table->display();
