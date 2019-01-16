@@ -1,0 +1,93 @@
+/**
+ * Attribute translation screen styles.
+ * Loaded only on the wp-admin/edit.php?post_type=product&page=wpglobus-wc-translations page
+ * @package WPGlobus-WC/Admin
+ */
+
+table.fixed {
+	table-layout: auto;
+}
+
+.widefat {
+	th {
+		font-weight: 700;
+	}
+}
+
+.wp-list-table {
+	.column-taxonomy {
+		width: 8%;
+	}
+
+	.column-slug {
+		width: 10%;
+	}
+
+	.column-term_id {
+		width: 7%;
+	}
+
+	.column-source {
+		width: 15%;
+	}
+}
+
+.float-header {
+	background-color: #fff;
+	display: none;
+}
+
+.fixed-header {
+	position: fixed;
+	top: 32px;
+	z-index: 9999;
+
+	th {
+		text-align: left;
+	}
+}
+
+.wpglobus-language-tab {
+	margin-right: 10px;
+}
+
+.wpglobus-wc-translations .description {
+	margin-top: 5px;
+	overflow: hidden;
+	height: 1.7em;
+	cursor: pointer;
+
+	.thumbnail img {
+		max-height: 100px;
+	}
+}
+
+//
+// Button styles
+//
+.wpglobus-button-cancel,
+.wpglobus-button-save {
+	border-radius: 3px;
+	padding: 0 1em;
+	border: none;
+	margin-right: 1em;
+}
+
+.wpglobus-button-save {
+	color: #ffffff;
+	background: #2ea2cc;
+	&:hover {
+		background: lighten(#2ea2cc, 10%);
+	}
+}
+
+.wpglobus-button-cancel {
+	color: #000;
+	background: #eee;
+}
+
+.ui-button-text-only .ui-button-text {
+	padding: 0;
+}
+
+// --- EOF

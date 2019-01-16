@@ -103,7 +103,7 @@ $page_id = $wp_query->get_queried_object_id();
 		</div>
 		<?php if(!empty($outstock_opt['blog_header_text'])) { ?>
 		<header class="entry-header">
-			<div class="container">
+			<div class="container text-center">
 				<h1 class="entry-title"><?php echo esc_html($outstock_opt['blog_header_text']); ?></h1>
 			</div>
 		</header>

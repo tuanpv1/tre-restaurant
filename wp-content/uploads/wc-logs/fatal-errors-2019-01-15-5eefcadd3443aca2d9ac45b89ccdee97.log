@@ -1,0 +1,8 @@
+2019-01-15T05:18:12+00:00 CRITICAL Uncaught Error: Call to undefined function esc_html_() in /opt/code/tre-demo/tre/wp-content/themes/outstock/category.php:105
+Stack trace:
+#0 /opt/code/tre-demo/tre/wp-includes/template-loader.php(74): include()
+#1 /opt/code/tre-demo/tre/wp-blog-header.php(19): require_once('/opt/code/tre-d...')
+#2 /opt/code/tre-demo/tre/index.php(17): require('/opt/code/tre-d...')
+#3 {main}
+  thrown in /opt/code/tre-demo/tre/wp-content/themes/outstock/category.php on line 105
+

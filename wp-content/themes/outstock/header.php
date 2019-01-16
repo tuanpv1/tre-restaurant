@@ -34,6 +34,14 @@ $outstock_opt = get_option( 'outstock_opt' );
 	}
 ?>
 <body <?php body_class(); ?>>
+	<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v3.2&appId=2151621491570373&autoLogAppEvents=1';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
 <div class="main-wrapper <?php echo esc_attr($outstock_layout); ?>">
 <?php do_action('before'); ?> 
 	<header>

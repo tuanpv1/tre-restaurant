@@ -102,7 +102,7 @@ update_option( 'outstock_opt', $outstock_opt );
 			<?php if(!empty($outstock_opt['blog_header_text'])) { ?>
 				<header class="entry-header">
 					<div class="container">
-						<h1 class="entry-title"><?php echo esc_html($outstock_opt['blog_header_text']); ?></h1>
+						<h1 class="entry-title"><?php //echo esc_html__($outstock_opt['blog_header_text']); ?></h1>
 					</div>
 				</header>
 			<?php } ?>

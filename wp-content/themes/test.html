@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<!-- Responsive -->
+<link href='https://cdnjs.cloudflare.com/ajax/libs/jquery-datetimepicker/2.5.19/jquery.datetimepicker.min.css' rel='stylesheet' type='text/css' />
+<style>
+    .reservation-page-left .reservation-page-form .reservation-page-input-box label, .reservation-page-textarea label {
+        font-size: 12px;
+        font-weight: 600;
+        color: #333333;
+        margin-bottom: 2px;
+        width: 100%;
+    }
+    .reservation-page-left .reservation-page-form .reservation-page-input-box, .reservation-page-textarea {
+        width: 50%;
+        float: left;
+        padding-right: 10px;
+        padding-left: 10px;
+        margin-bottom: 19px;
+    }
+
+    .reservation-page-left .reservation-page-form .reservation-page-input-box input[type="text"],
+    .reservation-page-left .reservation-page-form .reservation-page-input-box input[type="email"],
+    .reservation-page-left .reservation-page-form .reservation-page-input-box input[type="number"]{
+        -webkit-appearance: none;
+        text-shadow: none;
+        -webkit-box-shadow: none;
+        -moz-box-shadow: none;
+        -o-box-shadow: none;
+        box-shadow: none;
+        color: #000;
+        margin-bottom: 0;
+        background-color: #ffffff;
+        border: 1px solid #e0e0e0;
+        height: 44px;
+        padding-left: 15px;
+        font-size: 12px;
+        outline: none;
+        width: 100%;
+        border-radius: 0;
+        -webkit-transition: all 0.3s ease-in-out;
+        -moz-transition: all 0.3s ease-in-out;
+        -ms-transition: all 0.3s ease-in-out;
+        -o-transition: all 0.3s ease-in-out;
+        transition: all 0.3s ease-in-out;
+    }
+
+    #reservation-form .date_picker input, #reservation-form .time_picker input {
+        font-family: 'Gotham';
+        padding-left: 35px;
+    }
+
+    #reservation-form .date_picker {
+        width: 66%;
+        position: relative;
+    }
+
+
+
+    #reservation-form .time_picker {
+        width: 34%;
+        margin-left: -5px;
+        position: relative;
+    }
+
+    #reservation-form .date_picker::before, #reservation-form .time_picker::before {
+        position: absolute;
+        top: 15px;
+        left: 16px;
+    }
+    button, input[type="button"], input[type="reset"], input[type="submit"] {
+
+        line-height: 1;
+        cursor: pointer;
+
+    }
+    button, input[type="button"], input[type="reset"], input[type="submit"] {
+
+        font-size: 12px;
+        font-weight: 700;
+        color: #ffffff;
+        text-transform: uppercase;
+        letter-spacing: 0.6px;
+
+    }
+    .reservation-page-left .reservation-page-form #reservation-form .reservation-booking button::before {
+        content: "";
+        position: absolute;
+        z-index: -1;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background: #222;
+        -webkit-transform: scaleX(0);
+        transform: scaleX(0);
+        -webkit-transform-origin: 0 50%;
+        transform-origin: 0 50%;
+        -webkit-transition-property: transform;
+        transition-property: transform;
+        -webkit-transition-duration: 0.5s;
+        transition-duration: 0.5s;
+        -webkit-transition-timing-function: ease-out;
+        transition-timing-function: ease-out;
+
+    }
+    .reservation-page-left .reservation-page-form #reservation-form .reservation-booking {
+        text-align: center;
+    }
+    @media (max-width:768px){
+        .reservation-page-left .reservation-page-form .reservation-page-input-box, .reservation-page-textarea {
+            width: 100%;
+        }
+    }
+</style>
+
+<div class="reservation-page-left">
+    <div class="reservation-page-form">
+        <form accept-charset='UTF-8' id='contact' method='post'>
+            <div id="reservation-form">
+                <div class="reservation-page-input-box">
+                    <label>Full name</label>
+                    <input type="text" class="form-control" placeholder="Input your Name" name="full_name" id="form-name" data-error="Field is required" required="">
+                </div>
+                <div class="reservation-page-input-box">
+                    <label>Time</label>
+                    <span class="fa fa-calendar date_picker" aria-hidden="true">
+									<input type="text" placeholder="Chose date" name="date_book" id="date-picker" data-error="Field is required" required=""> </span>
+                    <span class="fa fa-clock-o time_picker" aria-hidden="true">
+									<input type="text" placeholder="06:00" name="time_book" id="time-picker" data-error="Field is required" required="">
+								</span>
+                </div>
+                <div class="reservation-page-input-box">
+                    <label>Phone Number</label>
+                    <input type="text" class="form-control" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');"  placeholder="Your phone number" name="phone" id="form-phone" data-error="Field is required" required="">
+                </div>
+                <div class="reservation-page-input-box">
+                    <label>Quality</label>
+                    <input type="number" min="1" onkeypress="return (event.charCode == 8 || event.charCode == 0 || event.charCode == 13) ? null : event.charCode > 48 && event.charCode <= 57" class="form-control rt-date" placeholder="6 people" name="contact[seat]" id="form-quantity" data-error="Field is required" required="">
+                </div>
+                <div class="reservation-page-input-box">
+                    <label>Email</label>
+                    <input type="email" class="form-control" placeholder="Email ... " name="email" id="form-email" data-error="Field is required" required="">
+                </div>
+                <div class="reservation-page-input-box">
+                    <label>Note</label>
+                    <input type="text" class="form-control rt-date" placeholder="Input note" name="content_message" id="form-date" data-error="Field is required" required="">
+                </div>
+                <div class="reservation-booking">
+                    <input type="submit" class="btn btn-default" value="Book" name="submit_book">
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery-datetimepicker/2.5.19/jquery.datetimepicker.full.min.js' type='text/javascript'></script>
+<script type="text/javascript">
+    jQuery(document).ready(function ($) {
+        $(".date_picker input").datetimepicker({
+            timepicker:false,
+            format: 'd/m/Y',
+            minDate:0
+        })
+        $(".time_picker input").datetimepicker({
+            datepicker:false,
+            format: 'H:i'
+        })
+
+    });
+</script>
+</body>
+</html>

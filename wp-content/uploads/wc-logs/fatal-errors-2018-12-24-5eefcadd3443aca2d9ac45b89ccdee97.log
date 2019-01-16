@@ -1,0 +1,42 @@
+2018-12-24T01:10:38+00:00 CRITICAL Uncaught Error: Function name must be a string in /opt/code/tre-demo/tre/wp-content/themes/outstock/single.php:67
+Stack trace:
+#0 /opt/code/tre-demo/tre/wp-includes/template-loader.php(74): include()
+#1 /opt/code/tre-demo/tre/wp-blog-header.php(19): require_once('/opt/code/tre-d...')
+#2 /opt/code/tre-demo/tre/index.php(17): require('/opt/code/tre-d...')
+#3 {main}
+  thrown in /opt/code/tre-demo/tre/wp-content/themes/outstock/single.php on line 67
+
+2018-12-24T01:17:52+00:00 CRITICAL syntax error, unexpected end of file in /opt/code/tre-demo/tre/wp-content/themes/outstock/single.php on line 97
+
+2018-12-24T01:18:21+00:00 CRITICAL syntax error, unexpected end of file in /opt/code/tre-demo/tre/wp-content/themes/outstock/single.php on line 98
+
+2018-12-24T01:27:02+00:00 CRITICAL syntax error, unexpected end of file in /opt/code/tre-demo/tre/wp-content/themes/outstock/single.php on line 98
+
+2018-12-24T01:30:05+00:00 CRITICAL syntax error, unexpected end of file in /opt/code/tre-demo/tre/wp-content/themes/outstock/single.php on line 99
+
+2018-12-24T01:36:06+00:00 CRITICAL syntax error, unexpected end of file in /opt/code/tre-demo/tre/wp-content/themes/outstock/single.php on line 99
+
+2018-12-24T01:36:25+00:00 CRITICAL syntax error, unexpected end of file in /opt/code/tre-demo/tre/wp-content/themes/outstock/single.php on line 103
+
+2018-12-24T01:36:27+00:00 CRITICAL syntax error, unexpected end of file in /opt/code/tre-demo/tre/wp-content/themes/outstock/single.php on line 103
+
+2018-12-24T01:36:49+00:00 CRITICAL syntax error, unexpected end of file in /opt/code/tre-demo/tre/wp-content/themes/outstock/single.php on line 103
+
+2018-12-24T01:39:37+00:00 CRITICAL syntax error, unexpected end of file in /opt/code/tre-demo/tre/wp-content/themes/outstock/single.php on line 103
+
+2018-12-24T03:15:06+00:00 CRITICAL syntax error, unexpected 'title' (T_STRING), expecting ']' in /opt/code/tre-demo/tre/wp-content/themes/outstock/single.php on line 65
+
+2018-12-24T03:15:22+00:00 CRITICAL syntax error, unexpected 'title' (T_STRING), expecting ']' in /opt/code/tre-demo/tre/wp-content/themes/outstock/single.php on line 65
+
+2018-12-24T03:15:24+00:00 CRITICAL syntax error, unexpected 'title' (T_STRING), expecting ']' in /opt/code/tre-demo/tre/wp-content/themes/outstock/single.php on line 65
+
+2018-12-24T03:15:25+00:00 CRITICAL syntax error, unexpected 'title' (T_STRING), expecting ']' in /opt/code/tre-demo/tre/wp-content/themes/outstock/single.php on line 65
+
+2018-12-24T03:16:25+00:00 CRITICAL syntax error, unexpected 'title' (T_STRING), expecting ']' in /opt/code/tre-demo/tre/wp-content/themes/outstock/single.php on line 65
+
+2018-12-24T03:20:47+00:00 CRITICAL syntax error, unexpected ':' in /opt/code/tre-demo/tre/wp-content/themes/outstock/single.php on line 65
+
+2018-12-24T03:20:51+00:00 CRITICAL syntax error, unexpected ':' in /opt/code/tre-demo/tre/wp-content/themes/outstock/single.php on line 65
+
+2018-12-24T03:20:58+00:00 CRITICAL syntax error, unexpected ':' in /opt/code/tre-demo/tre/wp-content/themes/outstock/single.php on line 65
+
